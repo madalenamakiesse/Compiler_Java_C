@@ -1,0 +1,12 @@
+int a ;
+int main(int a){
+float  b;
+float c = 1;
+g ;
+return "ugjjb";
+}
+
+Foca-se em dados, dar soluções de dados: colecção de dados, 
+modelação de dados e visualização , powerBI e tableu.
+Digitalitalização de dados
+RPA. robotic process automation
